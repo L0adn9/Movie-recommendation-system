@@ -51,7 +51,7 @@ Both systems use the **mock data** (`ratings.csv`, `movies.csv`) and compute **c
 
 ## Requirements
 
-* Python 3.x
+* Python 3.12.7
 * Pandas
 * scikit-learn
 * numpy
