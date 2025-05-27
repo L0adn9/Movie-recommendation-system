@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System using Collaborative Filtering
 
 This project implements a **movie recommendation engine** using **collaborative filtering** techniques in two separate Jupyter notebooks:
 
